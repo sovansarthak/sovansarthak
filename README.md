@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Test Automation both on UI and RestAPIs<br>Can code in Java and Python<br>Can build robust frameworks like TestNG, Pytest<br>Experience in Selenium Webdriver, RestAssured in Java, Request Library in Python
+Currently working on Test Automation both on UI and RestAPIs<br>Can code in Java and Python<br>Can build robust frameworks like TestNG, Pytest<br>Experience in Selenium Webdriver, RestAssured in Java, Request Library in Python <br> Aspiring UI developer
 
 
 ## 🌐 Socials:
